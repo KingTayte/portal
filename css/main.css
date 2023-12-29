@@ -1,0 +1,15 @@
+
+
+.back-button{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 8px;
+}
+
+.back{
+    background-color: purple;
+    color: white;
+    border: solid;
+    border-radius: 30%;
+    padding: 7px;
+}
